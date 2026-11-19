@@ -1,0 +1,10 @@
+{
+  "name": "premiumfruitbd-mirror",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local static mirror of premiumfruitbd.com",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  }
+}
